@@ -1,0 +1,5 @@
+sagemaker
+numpy
+matplotlib
+pandas
+scikit-learn
